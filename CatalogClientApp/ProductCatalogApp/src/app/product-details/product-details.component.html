@@ -1,0 +1,29 @@
+<div class="bg-body secondary text-center py-5 rounded-2">
+    <h1 class="display-6 fw-bold">Product Catalog</h1>
+</div>
+<div class="row mt-5">
+    <div class="col-6">
+        <app-product-detail-form></app-product-detail-form>
+    </div>
+    <div class="col-6">
+       <ul class="list-group">
+        <li class="list-group-item d-flex justify-content-between align-items-start mb-2 border px-4 py-3 rounded-3" 
+        *ngFor="let pd of service.list">
+            <div class="flex-grow-1 mouse-hover"
+            (click)="populateForm(pd)">
+                <div class="fw-bold">{{pd.name}}</div>
+                <div>{{pd.description}}</div>
+                <div class="fw-bold">{{pd.price}}</div>
+                <div>{{pd.code}}</div>
+            </div>
+            <span class="text-secondary">
+               <i class="fa-solid fa-trash-can fa-lg mouse-hover">
+            </i> 
+            <!-- By using  (click)="onDelete(pd.id)" inside of 'i' tag 
+             there can be easily implemented a button that will be responsible,
+                 for deleting the records from the catalog -->
+            </span>
+        </li>
+       </ul>
+    </div>
+</div>

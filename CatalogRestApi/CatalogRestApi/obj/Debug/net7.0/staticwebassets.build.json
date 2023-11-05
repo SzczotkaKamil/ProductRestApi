@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FxwZ5fIbCUOyt+C4WCkcK/XA+cuCF/qb4vvAnBL2bjk=",
+  "Source": "CatalogRestApi",
+  "BasePath": "_content/CatalogRestApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

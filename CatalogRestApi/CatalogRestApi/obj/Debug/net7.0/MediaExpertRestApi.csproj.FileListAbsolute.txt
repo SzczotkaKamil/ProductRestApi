@@ -1,0 +1,72 @@
+C:\Users\Kamil\source\repos\MediaExpertRestApi\MediaExpertRestApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Kamil\source\repos\MediaExpertRestApi\MediaExpertRestApi\bin\Debug\net7.0\appsettings.json
+C:\Users\Kamil\source\repos\MediaExpertRestApi\MediaExpertRestApi\bin\Debug\net7.0\MediaExpertRestApi.exe
+C:\Users\Kamil\source\repos\MediaExpertRestApi\MediaExpertRestApi\bin\Debug\net7.0\MediaExpertRestApi.deps.json
+C:\Users\Kamil\source\repos\MediaExpertRestApi\MediaExpertRestApi\bin\Debug\net7.0\MediaExpertRestApi.runtimeconfig.json
+C:\Users\Kamil\source\repos\MediaExpertRestApi\MediaExpertRestApi\bin\Debug\net7.0\MediaExpertRestApi.dll
+C:\Users\Kamil\source\repos\MediaExpertRestApi\MediaExpertRestApi\bin\Debug\net7.0\MediaExpertRestApi.pdb
+C:\Users\Kamil\source\repos\MediaExpertRestApi\MediaExpertRestApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Kamil\source\repos\MediaExpertRestApi\MediaExpertRestApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Kamil\source\repos\MediaExpertRestApi\MediaExpertRestApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Kamil\source\repos\MediaExpertRestApi\MediaExpertRestApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Kamil\source\repos\MediaExpertRestApi\MediaExpertRestApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Kamil\source\repos\MediaExpertRestApi\MediaExpertRestApi\bin\Debug\net7.0\MediaExpertRestApi.Contracts.dll
+C:\Users\Kamil\source\repos\MediaExpertRestApi\MediaExpertRestApi\bin\Debug\net7.0\MediaExpertRestApi.Contracts.pdb
+C:\Users\Kamil\source\repos\MediaExpertRestApi\MediaExpertRestApi\obj\Debug\net7.0\MediaExpertRestApi.csproj.AssemblyReference.cache
+C:\Users\Kamil\source\repos\MediaExpertRestApi\MediaExpertRestApi\obj\Debug\net7.0\MediaExpertRestApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamil\source\repos\MediaExpertRestApi\MediaExpertRestApi\obj\Debug\net7.0\MediaExpertRestApi.AssemblyInfoInputs.cache
+C:\Users\Kamil\source\repos\MediaExpertRestApi\MediaExpertRestApi\obj\Debug\net7.0\MediaExpertRestApi.AssemblyInfo.cs
+C:\Users\Kamil\source\repos\MediaExpertRestApi\MediaExpertRestApi\obj\Debug\net7.0\MediaExpertRestApi.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\source\repos\MediaExpertRestApi\MediaExpertRestApi\obj\Debug\net7.0\MediaExpertRestApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kamil\source\repos\MediaExpertRestApi\MediaExpertRestApi\obj\Debug\net7.0\MediaExpertRestApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kamil\source\repos\MediaExpertRestApi\MediaExpertRestApi\obj\Debug\net7.0\staticwebassets\msbuild.MediaExpertRestApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Kamil\source\repos\MediaExpertRestApi\MediaExpertRestApi\obj\Debug\net7.0\staticwebassets\msbuild.build.MediaExpertRestApi.props
+C:\Users\Kamil\source\repos\MediaExpertRestApi\MediaExpertRestApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MediaExpertRestApi.props
+C:\Users\Kamil\source\repos\MediaExpertRestApi\MediaExpertRestApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MediaExpertRestApi.props
+C:\Users\Kamil\source\repos\MediaExpertRestApi\MediaExpertRestApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Kamil\source\repos\MediaExpertRestApi\MediaExpertRestApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Kamil\source\repos\MediaExpertRestApi\MediaExpertRestApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Kamil\source\repos\MediaExpertRestApi\MediaExpertRestApi\obj\Debug\net7.0\scopedcss\bundle\MediaExpertRestApi.styles.css
+C:\Users\Kamil\source\repos\MediaExpertRestApi\MediaExpertRestApi\obj\Debug\net7.0\MediaExpertRestApi.csproj.CopyComplete
+C:\Users\Kamil\source\repos\MediaExpertRestApi\MediaExpertRestApi\obj\Debug\net7.0\MediaExpertRestApi.dll
+C:\Users\Kamil\source\repos\MediaExpertRestApi\MediaExpertRestApi\obj\Debug\net7.0\refint\MediaExpertRestApi.dll
+C:\Users\Kamil\source\repos\MediaExpertRestApi\MediaExpertRestApi\obj\Debug\net7.0\MediaExpertRestApi.pdb
+C:\Users\Kamil\source\repos\MediaExpertRestApi\MediaExpertRestApi\obj\Debug\net7.0\MediaExpertRestApi.genruntimeconfig.cache
+C:\Users\Kamil\source\repos\MediaExpertRestApi\MediaExpertRestApi\obj\Debug\net7.0\ref\MediaExpertRestApi.dll
+C:\Users\Kamil\source\repos\MediaExpertRestApi\MediaExpertRestApi\bin\Debug\net7.0\ErrorOr.dll
+C:\Users\Kamil\source\repos\Zadanie rekrutacyjne Media Expert\MediaExpertRestApi\MediaExpertRestApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Kamil\source\repos\Zadanie rekrutacyjne Media Expert\MediaExpertRestApi\MediaExpertRestApi\bin\Debug\net7.0\appsettings.json
+C:\Users\Kamil\source\repos\Zadanie rekrutacyjne Media Expert\MediaExpertRestApi\MediaExpertRestApi\bin\Debug\net7.0\MediaExpertRestApi.exe
+C:\Users\Kamil\source\repos\Zadanie rekrutacyjne Media Expert\MediaExpertRestApi\MediaExpertRestApi\bin\Debug\net7.0\MediaExpertRestApi.deps.json
+C:\Users\Kamil\source\repos\Zadanie rekrutacyjne Media Expert\MediaExpertRestApi\MediaExpertRestApi\bin\Debug\net7.0\MediaExpertRestApi.runtimeconfig.json
+C:\Users\Kamil\source\repos\Zadanie rekrutacyjne Media Expert\MediaExpertRestApi\MediaExpertRestApi\bin\Debug\net7.0\MediaExpertRestApi.dll
+C:\Users\Kamil\source\repos\Zadanie rekrutacyjne Media Expert\MediaExpertRestApi\MediaExpertRestApi\bin\Debug\net7.0\MediaExpertRestApi.pdb
+C:\Users\Kamil\source\repos\Zadanie rekrutacyjne Media Expert\MediaExpertRestApi\MediaExpertRestApi\bin\Debug\net7.0\ErrorOr.dll
+C:\Users\Kamil\source\repos\Zadanie rekrutacyjne Media Expert\MediaExpertRestApi\MediaExpertRestApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Kamil\source\repos\Zadanie rekrutacyjne Media Expert\MediaExpertRestApi\MediaExpertRestApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Kamil\source\repos\Zadanie rekrutacyjne Media Expert\MediaExpertRestApi\MediaExpertRestApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Kamil\source\repos\Zadanie rekrutacyjne Media Expert\MediaExpertRestApi\MediaExpertRestApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Kamil\source\repos\Zadanie rekrutacyjne Media Expert\MediaExpertRestApi\MediaExpertRestApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Kamil\source\repos\Zadanie rekrutacyjne Media Expert\MediaExpertRestApi\MediaExpertRestApi\bin\Debug\net7.0\MediaExpertRestApi.Contracts.dll
+C:\Users\Kamil\source\repos\Zadanie rekrutacyjne Media Expert\MediaExpertRestApi\MediaExpertRestApi\bin\Debug\net7.0\MediaExpertRestApi.Contracts.pdb
+C:\Users\Kamil\source\repos\Zadanie rekrutacyjne Media Expert\MediaExpertRestApi\MediaExpertRestApi\obj\Debug\net7.0\MediaExpertRestApi.csproj.AssemblyReference.cache
+C:\Users\Kamil\source\repos\Zadanie rekrutacyjne Media Expert\MediaExpertRestApi\MediaExpertRestApi\obj\Debug\net7.0\MediaExpertRestApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamil\source\repos\Zadanie rekrutacyjne Media Expert\MediaExpertRestApi\MediaExpertRestApi\obj\Debug\net7.0\MediaExpertRestApi.AssemblyInfoInputs.cache
+C:\Users\Kamil\source\repos\Zadanie rekrutacyjne Media Expert\MediaExpertRestApi\MediaExpertRestApi\obj\Debug\net7.0\MediaExpertRestApi.AssemblyInfo.cs
+C:\Users\Kamil\source\repos\Zadanie rekrutacyjne Media Expert\MediaExpertRestApi\MediaExpertRestApi\obj\Debug\net7.0\MediaExpertRestApi.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\source\repos\Zadanie rekrutacyjne Media Expert\MediaExpertRestApi\MediaExpertRestApi\obj\Debug\net7.0\MediaExpertRestApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kamil\source\repos\Zadanie rekrutacyjne Media Expert\MediaExpertRestApi\MediaExpertRestApi\obj\Debug\net7.0\MediaExpertRestApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kamil\source\repos\Zadanie rekrutacyjne Media Expert\MediaExpertRestApi\MediaExpertRestApi\obj\Debug\net7.0\staticwebassets\msbuild.MediaExpertRestApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Kamil\source\repos\Zadanie rekrutacyjne Media Expert\MediaExpertRestApi\MediaExpertRestApi\obj\Debug\net7.0\staticwebassets\msbuild.build.MediaExpertRestApi.props
+C:\Users\Kamil\source\repos\Zadanie rekrutacyjne Media Expert\MediaExpertRestApi\MediaExpertRestApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MediaExpertRestApi.props
+C:\Users\Kamil\source\repos\Zadanie rekrutacyjne Media Expert\MediaExpertRestApi\MediaExpertRestApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MediaExpertRestApi.props
+C:\Users\Kamil\source\repos\Zadanie rekrutacyjne Media Expert\MediaExpertRestApi\MediaExpertRestApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Kamil\source\repos\Zadanie rekrutacyjne Media Expert\MediaExpertRestApi\MediaExpertRestApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Kamil\source\repos\Zadanie rekrutacyjne Media Expert\MediaExpertRestApi\MediaExpertRestApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Kamil\source\repos\Zadanie rekrutacyjne Media Expert\MediaExpertRestApi\MediaExpertRestApi\obj\Debug\net7.0\scopedcss\bundle\MediaExpertRestApi.styles.css
+C:\Users\Kamil\source\repos\Zadanie rekrutacyjne Media Expert\MediaExpertRestApi\MediaExpertRestApi\obj\Debug\net7.0\MediaExpertRestApi.csproj.CopyComplete
+C:\Users\Kamil\source\repos\Zadanie rekrutacyjne Media Expert\MediaExpertRestApi\MediaExpertRestApi\obj\Debug\net7.0\MediaExpertRestApi.dll
+C:\Users\Kamil\source\repos\Zadanie rekrutacyjne Media Expert\MediaExpertRestApi\MediaExpertRestApi\obj\Debug\net7.0\refint\MediaExpertRestApi.dll
+C:\Users\Kamil\source\repos\Zadanie rekrutacyjne Media Expert\MediaExpertRestApi\MediaExpertRestApi\obj\Debug\net7.0\MediaExpertRestApi.pdb
+C:\Users\Kamil\source\repos\Zadanie rekrutacyjne Media Expert\MediaExpertRestApi\MediaExpertRestApi\obj\Debug\net7.0\MediaExpertRestApi.genruntimeconfig.cache
+C:\Users\Kamil\source\repos\Zadanie rekrutacyjne Media Expert\MediaExpertRestApi\MediaExpertRestApi\obj\Debug\net7.0\ref\MediaExpertRestApi.dll

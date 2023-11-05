@@ -1,0 +1,2 @@
+@id=16aea993-5550-4251-bdba-2776583199fa
+DELETE  http://localhost:5000/products/{{id}}

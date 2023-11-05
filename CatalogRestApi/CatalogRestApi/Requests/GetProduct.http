@@ -1,0 +1,2 @@
+@id=3c4b9fcc-1521-42be-9e3e-397585ecb541
+GET http://localhost:5000/products

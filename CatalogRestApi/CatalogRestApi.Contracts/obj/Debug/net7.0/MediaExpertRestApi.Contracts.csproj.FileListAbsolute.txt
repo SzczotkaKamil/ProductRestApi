@@ -1,0 +1,22 @@
+C:\Users\Kamil\source\repos\MediaExpertRestApi\MediaExpertRestApi.Contracts\bin\Debug\net7.0\MediaExpertRestApi.Contracts.deps.json
+C:\Users\Kamil\source\repos\MediaExpertRestApi\MediaExpertRestApi.Contracts\bin\Debug\net7.0\MediaExpertRestApi.Contracts.dll
+C:\Users\Kamil\source\repos\MediaExpertRestApi\MediaExpertRestApi.Contracts\bin\Debug\net7.0\MediaExpertRestApi.Contracts.pdb
+C:\Users\Kamil\source\repos\MediaExpertRestApi\MediaExpertRestApi.Contracts\obj\Debug\net7.0\MediaExpertRestApi.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamil\source\repos\MediaExpertRestApi\MediaExpertRestApi.Contracts\obj\Debug\net7.0\MediaExpertRestApi.Contracts.AssemblyInfoInputs.cache
+C:\Users\Kamil\source\repos\MediaExpertRestApi\MediaExpertRestApi.Contracts\obj\Debug\net7.0\MediaExpertRestApi.Contracts.AssemblyInfo.cs
+C:\Users\Kamil\source\repos\MediaExpertRestApi\MediaExpertRestApi.Contracts\obj\Debug\net7.0\MediaExpertRestApi.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\source\repos\MediaExpertRestApi\MediaExpertRestApi.Contracts\obj\Debug\net7.0\MediaExpertRestApi.Contracts.dll
+C:\Users\Kamil\source\repos\MediaExpertRestApi\MediaExpertRestApi.Contracts\obj\Debug\net7.0\refint\MediaExpertRestApi.Contracts.dll
+C:\Users\Kamil\source\repos\MediaExpertRestApi\MediaExpertRestApi.Contracts\obj\Debug\net7.0\MediaExpertRestApi.Contracts.pdb
+C:\Users\Kamil\source\repos\MediaExpertRestApi\MediaExpertRestApi.Contracts\obj\Debug\net7.0\ref\MediaExpertRestApi.Contracts.dll
+C:\Users\Kamil\source\repos\Zadanie rekrutacyjne Media Expert\MediaExpertRestApi\MediaExpertRestApi.Contracts\bin\Debug\net7.0\MediaExpertRestApi.Contracts.deps.json
+C:\Users\Kamil\source\repos\Zadanie rekrutacyjne Media Expert\MediaExpertRestApi\MediaExpertRestApi.Contracts\bin\Debug\net7.0\MediaExpertRestApi.Contracts.dll
+C:\Users\Kamil\source\repos\Zadanie rekrutacyjne Media Expert\MediaExpertRestApi\MediaExpertRestApi.Contracts\bin\Debug\net7.0\MediaExpertRestApi.Contracts.pdb
+C:\Users\Kamil\source\repos\Zadanie rekrutacyjne Media Expert\MediaExpertRestApi\MediaExpertRestApi.Contracts\obj\Debug\net7.0\MediaExpertRestApi.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamil\source\repos\Zadanie rekrutacyjne Media Expert\MediaExpertRestApi\MediaExpertRestApi.Contracts\obj\Debug\net7.0\MediaExpertRestApi.Contracts.AssemblyInfoInputs.cache
+C:\Users\Kamil\source\repos\Zadanie rekrutacyjne Media Expert\MediaExpertRestApi\MediaExpertRestApi.Contracts\obj\Debug\net7.0\MediaExpertRestApi.Contracts.AssemblyInfo.cs
+C:\Users\Kamil\source\repos\Zadanie rekrutacyjne Media Expert\MediaExpertRestApi\MediaExpertRestApi.Contracts\obj\Debug\net7.0\MediaExpertRestApi.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\source\repos\Zadanie rekrutacyjne Media Expert\MediaExpertRestApi\MediaExpertRestApi.Contracts\obj\Debug\net7.0\MediaExpertRestApi.Contracts.dll
+C:\Users\Kamil\source\repos\Zadanie rekrutacyjne Media Expert\MediaExpertRestApi\MediaExpertRestApi.Contracts\obj\Debug\net7.0\refint\MediaExpertRestApi.Contracts.dll
+C:\Users\Kamil\source\repos\Zadanie rekrutacyjne Media Expert\MediaExpertRestApi\MediaExpertRestApi.Contracts\obj\Debug\net7.0\MediaExpertRestApi.Contracts.pdb
+C:\Users\Kamil\source\repos\Zadanie rekrutacyjne Media Expert\MediaExpertRestApi\MediaExpertRestApi.Contracts\obj\Debug\net7.0\ref\MediaExpertRestApi.Contracts.dll

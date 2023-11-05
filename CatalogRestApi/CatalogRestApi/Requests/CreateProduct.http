@@ -1,0 +1,9 @@
+
+POST http://localhost:5000/products
+Content-Type: application/json
+
+{"name": "Klawiatura Razer",
+"description": "Klawiatura Gamingowa Razer",
+"Code": "AX11",
+"Price": "299.0"
+}
